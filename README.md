@@ -2,6 +2,7 @@
 
 This repository contains the code and dataset for our paper: [PDFTriage: Question Answering over Long, Structured Documents](https://arxiv.org/abs/2309.08872). 
 
+
 ## Citation
 
 If you use this work in your research, please cite our paper [PDFTriage: Question Answering over Long, Structured Documents](https://arxiv.org/abs/2309.08872) as follows:
