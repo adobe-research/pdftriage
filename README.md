@@ -1,6 +1,6 @@
 # PDFtriage
 
-This repository contains the code and dataset for our paper: [PDFTriage: Question Answering over Long, Structured Documents](https://arxiv.org/abs/2309.08872). 
+This repository contains the code and dataset for our paper: [PDFTriage: Question Answering over Long, Structured Documents](https://arxiv.org/abs/2309.08872) (EMNLP 2024 Industry Track). 
 
 ## Citation
 
